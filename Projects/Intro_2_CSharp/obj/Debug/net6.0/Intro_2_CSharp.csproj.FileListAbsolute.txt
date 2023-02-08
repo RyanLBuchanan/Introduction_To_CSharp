@@ -1,0 +1,15 @@
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\bin\Debug\net6.0\Intro_2_CSharp.exe
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\bin\Debug\net6.0\Intro_2_CSharp.deps.json
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\bin\Debug\net6.0\Intro_2_CSharp.runtimeconfig.json
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\bin\Debug\net6.0\Intro_2_CSharp.dll
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\bin\Debug\net6.0\Intro_2_CSharp.pdb
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.csproj.AssemblyReference.cache
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.AssemblyInfoInputs.cache
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.AssemblyInfo.cs
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.dll
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\refint\Intro_2_CSharp.dll
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.pdb
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\Intro_2_CSharp.genruntimeconfig.cache
+C:\Users\vreed\Desktop\Ryan\Employment\Revature\Revature Pro\Introduction_To_CSharp\Projects\Intro_2_CSharp\obj\Debug\net6.0\ref\Intro_2_CSharp.dll
