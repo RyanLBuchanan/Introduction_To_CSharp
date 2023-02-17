@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj": {}
+    "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Courses\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj": {
+    "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Courses\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Courses\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj",
         "projectName": "Intro_2_CSharp",
-        "projectPath": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj",
+        "projectPath": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Courses\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\Intro_2_CSharp.csproj",
         "packagesPath": "C:\\Users\\vreed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\obj\\",
+        "outputPath": "C:\\Users\\vreed\\Desktop\\Ryan\\Employment\\Revature\\Revature Pro\\Courses\\Introduction_To_CSharp\\Projects\\Intro_2_CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
