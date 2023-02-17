@@ -6,16 +6,34 @@ using System.Threading.Tasks;
 
 namespace Intro_2_CSharp
 {
-    internal class Robot
+    abstract class Robot
     {
         // a field or variable
-        public int speed;
-        private string robotType = "hover bot";
+        public int maxSpeed;
+        private string robotType;
 
-        // method
-        public void Introduction()
+        // Constructor
+        public Robot(int maxSpeed)
         {
-            Console.WriteLine("Beep, boop, beep.\nI'm a {0} type of robot.", robotType);
+            this.maxSpeed = maxSpeed;
+            this.robotType = robotType;
+        }
+
+        // Properties
+        public int MaxSpeed
+        {
+            get { return maxSpeed; }
+            set
+            {
+                if (value < 0)
+                {
+                    maxSpeed = 0;
+                }
+                else
+                {
+                    maxSpeed = value;
+                }
+            }
         }
 
         // Provide controlled access to and validation for private "backing" fields
@@ -23,7 +41,8 @@ namespace Intro_2_CSharp
         public string RobotType
         {
             get { return robotType; }
-            set { 
+            set
+            {
                 if (value == null)
                 {
                     robotType = "";
@@ -33,6 +52,19 @@ namespace Intro_2_CSharp
                     robotType = value;
                 }
             }
+        }
+
+        // method
+        public void Introduction()
+        {
+            Console.WriteLine("Beep, boop, beep.\nI'm a {0} type of robot.", robotType);
+        }
+
+        public abstract void Move();
+
+        public void Identify()
+        {
+            Console.WriteLine($"I am a {robotType}");
         }
     }
 }
